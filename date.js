@@ -1,3 +1,4 @@
+var string = document.lastModified;
 let daynames=[
     "Sunday"
     "Monday"
